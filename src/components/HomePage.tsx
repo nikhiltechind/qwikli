@@ -1,5 +1,7 @@
 import React from 'react'
-import SearchHeader from './SearchHeader'
+
+import NavBarSearch from './NavBarSearch'
+import NavBar from './NavBar'
 
 const HomePage = () => {
   return (
@@ -9,8 +11,8 @@ const HomePage = () => {
         <div className='font-normal text-sm mr-8'>about | Contact-us | My Account</div>
     </div>
 
-<SearchHeader/>
-
+<NavBarSearch/>
+<NavBar/>
     </>
   )
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const SearchHeader = () => {
+const NavBarSearch = () => {
   return (
 
     <div className='flex border-1 p-2 justify-evenly bg-orange-400'>
@@ -22,4 +22,4 @@ const SearchHeader = () => {
   )
 }
 
-export default SearchHeader
+export default NavBarSearch
