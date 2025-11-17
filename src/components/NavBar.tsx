@@ -28,7 +28,7 @@ const selectedMenuHelper = (menu:string) => {
 
 const items = ['ABC','DEF','GHI','JKL']
 const items1 = ['XYZ','ASDFSD','WEREW','CVXCV']
-const items2 = ['12321','4343','6565','PO45445']
+const items2 = ['electronics','clothing','books','home-appliances']
   return (
     <>
     <div className='flex justify-between border-1 p-1.5 relative' >
