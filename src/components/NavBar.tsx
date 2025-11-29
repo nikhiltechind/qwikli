@@ -49,9 +49,10 @@ const items2 = ['electronics','clothing','books','home-appliances']
         { selectedMenu == 'menuitems' &&  <NavCard menuItems={items2}/>}
         </button></div>
 </div>
-
+     
+    {localStorage.getItem("IsUserLoggedIn") ==="true" ? <div className='mr-4'>Hi {localStorage.getItem("User")}</div>:null}
      <div className='mr-5'>456</div>
-
+   
 
 {/* NavCard dropdown */}
      

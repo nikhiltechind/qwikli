@@ -32,10 +32,10 @@ export const categoryList: CategoryType = {
     },
     {
       id: 103,
-      name: "Bluetooth Speaker",
+      name: "Headphone",
       price: 1299,
       rating: 4.7,
-      image: "https://example.com/products/speaker.jpg"
+      image: "https://images.pexels.com/photos/159463/headphones-instagram-video-games-razer-159463.jpeg?cs=srgb&dl=black-and-white-close-up-hanging-159463.jpg&fm=jpg"
     }
   ],
 
@@ -45,7 +45,7 @@ export const categoryList: CategoryType = {
       name: "Men's T-Shirt",
       price: 499,
       rating: 4.1,
-      image: "https://example.com/products/tshirt.jpg"
+      image: "https://i.pinimg.com/originals/1b/19/41/1b1941c4049995b37eb529c3cf8bc5e3.jpg"
     },
     {
       id: 202,
